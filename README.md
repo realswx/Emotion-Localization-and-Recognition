@@ -21,7 +21,7 @@ https://github.com/realswx/Emotion-Localization-and-Recognition
     （1）手动安装：PyCharm进入file--Settings--Project:Emotion Localization and Recognition--Python Interpreter中配置Python Interpreter并添加上述Package
     （2）链接下载后将venv文件夹放到项目根目录 链接：https://pan.baidu.com/s/19GiAve85biw7f2EVHlkOvA  提取码：1gdc 
 
-## 3、运行步骤：
+## 3、运行：
 （1）系统程序：运行runMain.py程序。界面中模型可选可不选（有默认模型），可点击开启摄像头或者上传图片进行定位识别。
 （2）训练模型：运行train_classifier.py程序
 （3）混淆矩阵：运行plot_confusion_matrix.py程序
